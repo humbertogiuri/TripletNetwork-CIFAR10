@@ -1,0 +1,5 @@
+__pycache__/
+data/
+resnet.pth
+test-features-tsne
+train-features-tsne
